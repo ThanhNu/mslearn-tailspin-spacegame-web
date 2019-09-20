@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/paasnet-axaazurefoundry/TnuSpace%20Game%20-web%20-%20Pipeline/_apis/build/status/ThanhNu.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/paasnet-axaazurefoundry/TnuSpace%20Game%20-web%20-%20Pipeline/_build/latest?definitionId=280&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
